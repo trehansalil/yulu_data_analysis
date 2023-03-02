@@ -22,6 +22,7 @@ packaging==23.0
 pandas==1.5.3
 pandas-compat==0.1.1
 parso==0.8.3
+patsy==0.5.3
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==9.4.0
@@ -39,6 +40,7 @@ scipy==1.10.0
 seaborn==0.12.2
 six==1.16.0
 stack-data==0.6.2
+statsmodels==0.13.5
 tornado==6.2
 traitlets==5.9.0
 wcwidth==0.2.6
